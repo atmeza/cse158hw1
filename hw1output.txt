@@ -1,0 +1,146 @@
+Variance of review/taste ratings:  0.5135699375
+MSE of review/taste ratings:  [ 0.51356994]
+There are  95  styles of beer
+Style:  Hefeweizen  Average taste review:  3.635113268608414
+Style:  English Strong Ale  Average taste review:  3.7560975609756095
+Style:  Foreign / Export Stout  Average taste review:  3.2545454545454544
+Style:  German Pilsener  Average taste review:  3.667235494880546
+Style:  American Double / Imperial IPA  Average taste review:  4.033324755532681
+Style:  Herbed / Spiced Beer  Average taste review:  3.4452054794520546
+Style:  Oatmeal Stout  Average taste review:  3.7745098039215685
+Style:  American Pale Lager  Average taste review:  3.2154471544715446
+Style:  Rauchbier  Average taste review:  4.067853457172343
+Style:  American Pale Ale (APA)  Average taste review:  3.649694055944056
+Style:  American Porter  Average taste review:  4.081838565022421
+Style:  Belgian Strong Dark Ale  Average taste review:  3.6952054794520546
+Style:  Russian Imperial Stout  Average taste review:  4.300371057513915
+Style:  American Amber / Red Ale  Average taste review:  3.513533834586466
+Style:  American Strong Ale  Average taste review:  3.569277108433735
+Style:  Märzen / Oktoberfest  Average taste review:  3.5933572710951527
+Style:  American Adjunct Lager  Average taste review:  2.9483471074380163
+Style:  American Blonde Ale  Average taste review:  3.2549019607843137
+Style:  American IPA  Average taste review:  4.00085096036956
+Style:  Fruit / Vegetable Beer  Average taste review:  3.607749077490775
+Style:  English Bitter  Average taste review:  3.5374531835205993
+Style:  English Porter  Average taste review:  3.70708446866485
+Style:  Irish Dry Stout  Average taste review:  3.623762376237624
+Style:  American Barleywine  Average taste review:  4.064242424242424
+Style:  American Double / Imperial Stout  Average taste review:  4.479963112005366
+Style:  Doppelbock  Average taste review:  3.9828178694158076
+Style:  American Stout  Average taste review:  3.8197969543147208
+Style:  Maibock / Helles Bock  Average taste review:  3.7466666666666666
+Style:  Dortmunder / Export Lager  Average taste review:  3.4193548387096775
+Style:  Euro Strong Lager  Average taste review:  2.8480243161094223
+Style:  Low Alcohol Beer  Average taste review:  2.7142857142857144
+Style:  Light Lager  Average taste review:  2.39662027833002
+Style:  Euro Pale Lager  Average taste review:  2.962910128388017
+Style:  Bock  Average taste review:  3.189189189189189
+Style:  English India Pale Ale (IPA)  Average taste review:  3.4714285714285715
+Style:  Altbier  Average taste review:  3.403030303030303
+Style:  Kölsch  Average taste review:  3.6968085106382977
+Style:  Pumpkin Ale  Average taste review:  3.7875
+Style:  Rye Beer  Average taste review:  4.213570634037819
+Style:  American Pale Wheat Ale  Average taste review:  3.3344155844155843
+Style:  Milk / Sweet Stout  Average taste review:  3.782608695652174
+Style:  Schwarzbier  Average taste review:  3.6226415094339623
+Style:  Munich Dunkel Lager  Average taste review:  3.780141843971631
+Style:  Vienna Lager  Average taste review:  3.5303030303030303
+Style:  American Amber / Red Lager  Average taste review:  3.6904761904761907
+Style:  Scottish Ale  Average taste review:  3.7628205128205128
+Style:  Witbier  Average taste review:  3.5277777777777777
+Style:  Saison / Farmhouse Ale  Average taste review:  3.702127659574468
+Style:  American Black Ale  Average taste review:  3.8731884057971016
+Style:  English Brown Ale  Average taste review:  3.728282828282828
+Style:  English Barleywine  Average taste review:  4.360902255639098
+Style:  Extra Special / Strong Bitter (ESB)  Average taste review:  3.685157421289355
+Style:  California Common / Steam Beer  Average taste review:  3.3181818181818183
+Style:  Euro Dark Lager  Average taste review:  3.704861111111111
+Style:  Scotch Ale / Wee Heavy  Average taste review:  4.083393371757925
+Style:  English Pale Ale  Average taste review:  3.483761329305136
+Style:  Belgian Strong Pale Ale  Average taste review:  4.056170886075949
+Style:  Belgian Pale Ale  Average taste review:  3.7395833333333335
+Style:  Tripel  Average taste review:  3.7840466926070038
+Style:  Flanders Oud Bruin  Average taste review:  3.923076923076923
+Style:  American Brown Ale  Average taste review:  3.7436305732484074
+Style:  Smoked Beer  Average taste review:  3.19672131147541
+Style:  Dunkelweizen  Average taste review:  3.4918032786885247
+Style:  Dubbel  Average taste review:  3.7363636363636363
+Style:  Keller Bier / Zwickel Bier  Average taste review:  3.869565217391304
+Style:  Winter Warmer  Average taste review:  3.6216216216216215
+Style:  Bière de Garde  Average taste review:  3.9285714285714284
+Style:  Belgian Dark Ale  Average taste review:  3.34
+Style:  Irish Red Ale  Average taste review:  2.9819277108433737
+Style:  Chile Beer  Average taste review:  3.9545454545454546
+Style:  English Stout  Average taste review:  3.599264705882353
+Style:  Czech Pilsener  Average taste review:  3.609593604263824
+Style:  Belgian IPA  Average taste review:  3.94921875
+Style:  Black & Tan  Average taste review:  3.942622950819672
+Style:  Cream Ale  Average taste review:  3.028985507246377
+Style:  English Dark Mild Ale  Average taste review:  3.7857142857142856
+Style:  American Wild Ale  Average taste review:  4.188775510204081
+Style:  Weizenbock  Average taste review:  3.3846153846153846
+Style:  American Double / Imperial Pilsner  Average taste review:  3.8214285714285716
+Style:  Scottish Gruit / Ancient Herbed Ale  Average taste review:  3.9076923076923076
+Style:  Wheatwine  Average taste review:  4.186813186813187
+Style:  American Dark Wheat Ale  Average taste review:  3.6785714285714284
+Style:  American Malt Liquor  Average taste review:  2.2555555555555555
+Style:  Munich Helles Lager  Average taste review:  3.959230769230769
+Style:  Kristalweizen  Average taste review:  2.7857142857142856
+Style:  English Pale Mild Ale  Average taste review:  3.5952380952380953
+Style:  Baltic Porter  Average taste review:  4.213035019455253
+Style:  Old Ale  Average taste review:  4.096007604562738
+Style:  Quadrupel (Quad)  Average taste review:  3.596638655462185
+Style:  Braggot  Average taste review:  3.8076923076923075
+Style:  Lambic - Fruit  Average taste review:  3.75
+Style:  Lambic - Unblended  Average taste review:  3.3
+Style:  Eisbock  Average taste review:  3.75
+Style:  Flanders Red Ale  Average taste review:  3.25
+Style:  Berliner Weissbier  Average taste review:  3.55
+theta[0] gives predicted rating for non American IPA
+Predicted taste rating for non American IPA:  3.91520474208
+theta[1],  0.0856462182857  gives difference between rating of American IPA's and others
+Predicted taste rating for American IPA:  4.00085096037
+After Cross Validation feature if is American IPA
+MSE of training set:  0.558107286559
+MSE of test set:  0.468410050967
+After Cross Validation and features are all different styles of beers
+Theta:  [ 3.60099338  3.72875817  3.25        2.97916667  3.94278607  3.22058824
+  3.75961538  3.02083333  4.05        3.63421292  3.93741678  3.73333333
+  4.30245993  3.49047619  3.42692308  3.38636364  2.86879433  3.15270936
+  3.96041667  3.720022    3.58231707  3.70496894  3.83333333  4.06320225
+  4.44843488  3.19396552  3.80994152  3.5         2.89285714  2.77403846
+  2.4         2.37291667  2.68661972  2.86363636  3.47575758  3.41796875
+  3.70731707  3.87391304  3.98319328  3.42857143  4.31818182  3.73076923
+  3.1         3.53448276  3.66666667  3.875       3.51677852  3.81666667
+  3.8030303   3.64102564  4.37222222  3.75147929  3.78571429  3.72115385
+  4.0922619   3.2875      4.07524272  3.77067669  3.6657754   3.92307692
+  3.87442922  3.14035088  3.86363636  3.74468085  3.91666667  3.62380952
+  3.92857143  3.3362069   2.96875     3.95        3.50458716  3.31304348
+  3.95175439  3.94262295  2.95454545  3.9375      4.18877551  3.38461538
+  4.          3.99038462  3.625       3.67857143  2.6         3.4
+  2.91666667  3.83333333  4.26190476  4.21153846  4.          3.77272727
+  3.75        3.3         3.75        3.5         3.55      ]
+MSE of training set:  0.36677236423
+MSE of test set:  0.434410728015
+Prediction of whether or not beer is an American IPA based on ABV/taste
+svm.LinearSCV predictions with C=1000
+Training accuracy:  0.09684
+Testing Accuracy:  0.0796
+Predictions of whether beer is an IPA based on ABV/taste/overallreview/aroma
+data scaled, and shuffled
+svm.LinearSCV predictions with C=.1
+Training accuracy:  0.91884
+Testing Accuracy:  0.91664
+svm.LinearSCV predictions with C=10
+Training accuracy:  0.91884
+Testing Accuracy:  0.91664
+svm.LinearSCV predictions with C=1000
+Training accuracy:  0.91848
+Testing Accuracy:  0.91628
+svm.LinearSCV predictions with C=100000
+Training accuracy:  0.8232
+Testing Accuracy:  0.82068
+Changing the regularizer C affects the accuracy of the model
+ changes accuracy at a quadratic rate
+but eventually converges to a relaxed state
+ small numbers increases accuracy and as C grows accuracy decreases
